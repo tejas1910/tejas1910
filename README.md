@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tejas1910 aka Tejas aka Surampudi Tejas
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning the same
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - tejass2001@gmail.com 
 
 <!---
